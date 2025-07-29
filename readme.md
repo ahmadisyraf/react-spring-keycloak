@@ -13,7 +13,7 @@ You can check [Keycloak](https://www.keycloak.org) website for more detail.
 ### 1. Clone Repository
 
 ```bash
-git clone <git url>
+git clone https://github.com/ahmadisyraf/react-spring-keycloak.git
 ```
 
 ### 2. Run Keycloak and Postgres Container
